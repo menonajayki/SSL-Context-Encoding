@@ -1,2 +1,2 @@
 # SSL-Context-Encoding
-Self Supervised Learning Tasks
+ Learning a Context Encoder for inpainting. Visualizing and evaluating the results.
